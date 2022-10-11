@@ -1,21 +1,21 @@
 {
   "APIs": {
     "zenz": "https://zenzapis.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "bee20bed87"
   },
   "options": {
-    "autoRead": false,
+    "autoRead": true,
     "self": false,
     "limitCount": 20,
     "limitGame": 20
   },
   "exif": {
-    "packname": "zenzapi",
-    "author": "https://zenzapi.xyz"
+    "packname": "LoRD-MD",
+    "author": "LoRD"
   },
   "owner": [
-    "62812xxx"
+    "919778383987"
   ],
-  "timezone": "Asia/Jakarta",
-  "footer": "Powered by https://zenzapis.xyz"
+  "timezone": "Asia/Kolkata",
+  "footer": "LoRD-MD"
 }
